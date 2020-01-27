@@ -22,6 +22,7 @@ For information on the virtual address space and the memory management functions
 -   [Global and Local Functions](global-and-local-functions.md)
 -   [Standard C Library Functions](standard-c-library-functions.md)
 -   [Comparing Memory Allocation Methods](comparing-memory-allocation-methods.md)
+-   [SGX Enclave Memory](sgx-enclave-memory.md)
 
  
 
